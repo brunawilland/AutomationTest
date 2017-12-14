@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-java-3.8.1/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/automation plugins/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/cglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/cglib-nodep.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/classworlds.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-compress.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-exec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-lang3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/cssparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/gson.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/guice.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/hamcrest-integration.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/hamcrest-library.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/htmlunit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/htmlunit-core-js.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/httpmime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-maven-plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-rest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-web-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-web-runner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jbehave-web-selenium.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jersey-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jetty-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jna.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/jsoup.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-artifact.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-artifact-manager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-default-skin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-model.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-plugin-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-plugin-registry.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-profile.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-project.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-repository-metadata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/maven-settings.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/netty.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/paranamer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/phantomjsdriver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/plexus-archiver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/plexus-container-default.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/plexus-interpolation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/plexus-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/plexus-utils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/sac.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-chrome-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-firefox-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-htmlunit-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-ie-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-remote-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-safari-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/selenium-support.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/velocity.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wagon-provider-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/webbit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-guice.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-ioc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-request.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/wicket-velocity.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xmlpull.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xpp3_min.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruna/Downloads/eclipse-jee-oxygen-1a-win32-x86_64/eclipse/plugins/jbehave-web-distribution-3.6-20150526.090127-3-bin/jbehave-web-3.6-SNAPSHOT/lib/xstream.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
